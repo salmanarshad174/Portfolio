@@ -1,0 +1,9 @@
+body {
+   
+    background-image: url("salman.jpg");
+   
+    background-position: right top;
+      margin-right: 200px;
+      background-attachment: fixed;
+    /* The value repeat-x ensures that the background-image is repeated only along the x axis  */
+  }
